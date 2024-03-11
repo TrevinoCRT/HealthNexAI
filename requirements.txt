@@ -1,0 +1,11 @@
+Pillow
+azure-communication-identity
+azure-communication-networktraversal
+azure-identity
+beautifulsoup4
+customtkinter
+google-api-python-client
+google-auth
+google-auth-oauthlib
+openai
+requests
