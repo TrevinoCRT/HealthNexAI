@@ -1,0 +1,215 @@
+The AMA Update covers a range of health care topics affecting the lives of physicians and patients. Learn more about changes to COVID isolation guidelines and COVID vaccine dose schedule.
+
+The Centers for Medicare & Medicaid Services (CMS) outlines program for physicians affected by Change Healthcare outage to apply for 30 days’ pay.
+
+Change Healthcare experiences a cyber security issue impacting prior procedure authorizations, electronic prescribing and other patient care functions.
+
+Otolaryngologists can earn CME with these clinical challenges on unusual presentations of dysphagia, vestibular dysfunction, vasculitis and more.
+
+Addressing medical education gaps requires delivering the right education to the right learner at the right time. Find out more with the AMA.
+
+The timing of your application and your readiness are two key factors in determining when you should take the Medical College Admission Test (MCAT).
+
+Get answers to frequently asked questions about med school requirements, the application process, the MCAT and more.
+
+Medical resident loan repayment will resume in October. What do residents need to do to make sure they are prepared? Industry experts outline the path ahead.
+
+The transition to residency can be costly. Is a loan to help cover the expenses associated with moving to start your career worth it? Learn more with the AMA.
+
+The latest updates on the Change Healthcare cyberattack and more in the latest Advocacy Update spotlight.
+
+Congress on verge of passing Medicare physician payment legislation and more in the latest Medicare Payment Reform Advocacy Update.
+
+AMA Medical Student Advocacy Conference (MAC) attendees can now access special savings on UpToDate®.
+
+Are you a medical student or resident but not sure how AMBOSS can help you in your studies? Learn more from the AMA through these frequently asked questions and answers.
+
+Download and review the PDF list of pending reports from the Board and the councils, and submit comments and feedback.
+
+
+
+In the March 1 update, the speakers provide resolution submission deadlines for the 2024 Annual Meeting, guidelines for HOD election group interviews, a reminder about the newly consolidated election policy and an update to the agenda.
+
+Apply for a leadership position by submitting the required documentation by the deadline.
+
+Download PDFs of council reports that have proposed strategies establishing the AMA vision for health system reform to cover the uninsured and expand health insurance coverage and choice.
+
+Representatives for the YPS Assembly represent the interests of young physicians and are voting members. Apply to be a member of the governing council.
+
+Find highlights about MSS activities and how its members advocate for students in education and the medical profession.
+
+The 2024 International Conference on Physician Health will be held Oct. 17–Oct. 19, 2024. Learn more.
+
+This two-day boot camp Sept. 23-24, 2024, is designed for clinical and operational change agents looking to eliminate unnecessary work and free up more time to focus on what matters most–patient care.
+
+Stay up-to-date on information about health care AI, including the latest news, trends, and AMA statements. Learn more about the different ways artificial intelligence is being used in health care.
+
+Experts discuss the AMA’s latest augmented intelligence (AI) resources and delve into the practical uses of AI in health care.
+
+Learn more about upcoming events and webinars offered by the AMA STEPS Forward® Innovation Academy.
+
+The AMA is committed to helping physicians harness AI in ways that safely and effectively improve patient care.
+
+Artificial and augmented intelligence are rapidly changing technologies with wide-reaching medical implications. Earn CME credits while learning at your own pace.
+
+Digital health is reshaping America’s health care system at every turn. AMA works to make sure the physician voice is front and center.
+
+AMA's latest Future of Health PDF resource explores the current landscape of AI in medicine from terminology to current and future use cases to addressing risks.
+
+The AMA Update covers a range of health care topics affecting the lives of physicians and patients. Learn more about health care cybersecurity.
+
+Highlights from the 2024 AMA National Advocacy Conference and more in the latest Advocacy Update spotlight.
+
+The AMA promotes the art and science of medicine and the betterment of public health.
+
+Download AMA Connect app for
+iPhone or
+Android
+
+The best in medicine, delivered to your mailbox
+
+These influencers and health IT leaders are change-makers, paving the way toward health equity and transforming healthcare’s approach to data. They offer insights into today’s healthcare technology trends.
+
+Brian T. Horowitz is a writer covering enterprise IT, innovation and the intersection of technology and healthcare.
+
+Artificial intelligence holds great promise to help medical professionals gain key insights and improve health outcomes. However, AI adoption in healthcare has been sluggish, according to a March 9 Brookings Institution report.
+
+Despite the slow uptake of AI in healthcare, health insurer Optum revealed in a December 2021 survey that 85 percent of healthcare executives have an AI strategy, and almost half of executives surveyed now use the technology.
+
+“We’re no longer in an infancy stage,” says Natalie Schibell, vice president and research director for healthcare at Forrester Research, noting the impact of the COVID-19 pandemic in accelerating digital transformation. That includes AI.
+
+Schibell sees a deep need for AI to address healthcare problems such as chronic illness, workforce shortages and hospital readmissions. These factors are leading healthcare organizations, insurance companies and pharma and life sciences organizations to adopt AI, she says.
+
+AI is playing a role in improving data flow, recognizing and processing both structured and unstructured data, Schibell says. “We’re at the point now where if you’re not investing in AI or if you’re on the fence about investing, you’re going to be left in the dust,” she says.
+
+Schibell points to new efficiencies in speeding up data analysis. “AI identifies patterns, and it’s generating insights that might elude discovery from a physician’s manual efforts,” she says.
+
+Related Content:
+
+Learn the top 3 health tech trends to watch in 2023.
+
+Discover three senior care tech trends to watch in 2023.
+
+Explore five takeaways from health IT leaders on 2022 technology priorities.
+
+Dr. Taha Kass-Hout, vice president of health AI and CMO at Amazon Web Services, notes that 97 percent of healthcare data goes unused because it’s unstructured. That includes X-rays and medical records attached to slides. Machine learning (ML) allows healthcare professionals to structure and index this information. Amazon HealthLake is one service that enables searching and querying of unstructured data.
+
+In addition, ML and natural language processing (NLP) help healthcare organizations understand the meaning of clinical data, he adds.
+
+For example, the Children’s Hospital of Philadelphia turned to AWS AI services to integrate and facilitate the sharing of genomic, clinical and imaging data to help researchers cross-analyze diseases, develop new hypotheses and make discoveries.
+
+The Fred Hutchinson Cancer Center in Seattle used NLP in Amazon Comprehend Medical to review mountains of unstructured clinical record data at scale to quickly match patients with clinical cancer studies. NLP helped physicians review about 10,000 medical charts per hour to find patients with the right inclusion criteria, removing the “heavy lifting,” Kass-Hout says.
+
+“There are laborious inclusion criteria to go through, where you have to identify a lot of characteristics about the patient to determine whether they meet the criteria to be enrolled in a clinical trial. Often you have to read the entire medical history,” Kass-Hout says.
+
+Less than 5 percent of patients match the recruitment criteria for these types of clinical trials, according to Kass-Hout, partially due to the challenges of identifying the right information among unstructured data.
+
+READ MORE: AI-driven clinical care guidelines can lead to better patient outcomes.
+
+AI is helping doctors diagnose and manage kidney disease and predict trajectories for kidney patients, says Dr. Peter Kotanko, head of biomedical evidence generation at the Renal Research Institute (RRI) and adjunct professor of medicine for nephrology at the Icahn School of Medicine at Mount Sinai in New York.
+
+Kotanko indicates that nephrologists and other medical disciplines use AI and ML to assess images from radiology or histopathology, as well as images taken by smartphones to diagnose a patient’s condition.
+
+“AI not only relies on structured lab data or data stored in electronic health records, but also, of course, uses tools like natural language processing to extract insights from the unstructured texts,” he says.
+
+Meanwhile, ML is used to predict patient outcomes, including hospitalization, and to identify which patients may have COVID-19. RRI uses deep learning to analyze images from smartphones or tablets to assess a patient’s arterio-venous vascular access, which is used to connect a patient to the dialysis machine.
+
+“A convolutional neural network, or CNN, analyzes these kinds of data and sends a respective assessment back to the user within a second or so,” Kotanko says. “Images are sent from the tablet or smartphone to the cloud where a CNN receives the data and then provides the respective response.”
+
+Dr. Peter Kotanko
+Head of Biomedical Evidence Generation, Renal Research Institute
+
+Here are some trends for AI use in healthcare within the next three years:
+
+NLP and conversational AI have made advances in healthcare, but Schibell expects to see expanded use of virtual assistants in the next one to three years. “Symptom checking and triage will be more mainstream, more sophisticated,” she says. AI will help providers weed out which patients have emergency needs versus those that a primary care physician can address.
+
+Healthcare AI use cases that involve employing conversational AI include preparing for an appointment and providing driving directions to a hospital, Schibell says. Conversational AI will advise patients on whether to fast before an appointment, what to wear and what they should do before an exam.
+
+Look for improvements in automated scheduling in the coming year and beyond. “With retail health now shifting to primary care, you will see these companies using automated scheduling the most,” Schibell says. “There aren’t a whole lot of traditional healthcare providers using it.”
+
+AI will combine omics — biochemical assays such as metabolomics, genomics and transcriptomics — with EHRs and data from wearable devices, according to Kotanko. Wearable data combined with omics data could differentiate patient phenotypes, Kotanko says.
+
+“This whole aspect of data collection through pervasive sensing devices will grow, and I think AI will help to digest and integrate these high-dimensional inputs,” Kotanko says.
+
+As the FDA decides which medical devices to recognize, AI regulation will become stricter in the U.S. and in Europe, according to Kotanko.
+
+“Startups in the medical AI space will need to deal with this component,” Kotanko says. “I think that will be a significant move from the medical decision support system domain into the medical device domain.”
+
+As healthcare professionals make sense of unstructured data, they’ll be able to develop targeted diagnostics and personalize care, Kass-Hout says. “A lot of our customers are trying to index this data so they can structure it. However, it’s an error-prone process,” Kass-Hout says. “It’s very challenging operationally and due to cost, with these tools, we are really removing all that heavy lift for a lot of these customers, so they can focus on delivering care for their patients and populations.”
+
+UP NEXT: Learn more about practical AI applications in diagnostic intelligence.
+
+When implementing AI in healthcare in 2023 and beyond, providers should properly incorporate AI solutions into workflows, Schibell suggests. That way, complications such as latency when analyzing radiology images in the ER can be avoided. If the AI technology “complicates clinicians’ workflow and it takes them longer to implement, or if they need to switch to another screen and add steps in their workflow, they’re not going to use it,” she says.
+
+Providers should also make the physician a part of the process when developing AI solutions. The physician can be “the best developer of a solution,” Schibell says. “If you’ve not incorporated the advice and expertise of the physician who’s describing the workflow, your solution is not going to be optimal.”
+
+Unlock white papers, personalized recommendations and other premium content for an in-depth look at evolving IT
+
+Data Analytics
+
+ViVE 2024: How Increased Data Sharing Can Improve Health Outcomes
+
+What Is AIOps, and How Is It Used in Healthcare?
+
+Visit Some Of Our Other Technology Websites:
+
+Tap into practical IT advice from CDW experts.
+
+Visit the Research Hub
+
+Copyright © 2024 CDW LLC 200 N. Milwaukee Avenue, Vernon Hills, IL 60061Do Not Sell My Personal Information
+
+Ronen Lavi, CEO and cofounder of Navina
+
+Photo: Ronen Lavi
+
+This past year was a pivotal one for artificial intelligence in healthcare, of course, with healthcare provider organizations participating in significant new developments that promise to transform healthcare delivery in the years to come.
+
+The coming year promises to introduce new layers of technological and regulatory nuance as policymakers and healthcare organizations grow more sophisticated in their understanding and use of AI, and as they acclimate to the "new normal," says Ronen Lavi, CEO and cofounder of Navina, a developer of AI technology that works with primary care data.
+
+Healthcare IT News interviewed Lavi, who offered three trends healthcare leaders should be aware of going into 2024: one on "meaningful use" of AI, one on explainable AI and another on greater adoption of tech-enabled, advanced payment models.
+
+Q. You have said that this year there will be early steps toward what you call "meaningful use" for AI. Please explain.
+
+A. 2023 saw the emergence of AI into mainstream workflows across industries with the launch of OpenAI's ChatGPT. With it, analysts predicted paradigm shifts in labor, with particular emphasis on the middle class "knowledge worker." In medicine, we saw countless releases of AI-enabled functionalities, ranging from ambient dictation, task management and clinical decision support.
+
+When electronic health records came to the scene, regulators responded with incentive programs to help accelerate the transition from paper to digital records, with the objective to increase interoperability, quality and safety of patient care.
+
+With every exam room now equipped with a computer or tablet containing troves of patient information across a variety of platforms, clinicians are increasingly turning to AI-powered systems for summarization and insights.
+
+Today, AI-powered data summarization and exploration has become increasingly accessible to clinicians. We anticipate regulators will see an opportunity to incentivize the usage of these solutions that enable "a complete view of the patient" to increase safety and quality of care.
+
+Q. There certainly is a wariness in healthcare toward so-called "black box" systems. You suggest that in 2024 responsible, explainable AI will be king. Please elaborate.
+
+A. During 2023, clinical and healthcare IT leaders witnessed an unprecedented number of creative examples for how to incorporate AI into clinical and administrative workflows. However, a year in, these leaders have grown more sophisticated and have developed a deeper understanding of what AI can – and cannot – do for their organizations.
+
+While software developers continue to push the boundaries of what AI can do, when it comes to healthcare, nothing can replace the clinician-patient experience. Despite overhyped promises of systems that can overcome staffing challenges, the reality is that in a clinical setting, AI will augment rather than replace human interaction in the exam room.
+
+A year into the hype cycle, we are well aware of the dangers associated with large language model-based AI "hallucinations." These risks are especially profound in a healthcare environment, and clinicians are seeking ways to "de-risk" their interaction with information coming in from multiple sources and AI engines, both for patient safety and from regulatory liability perspectives.
+
+With President Biden shining a light on regulatory responsibility in AI, we expect the AI systems that will emerge victorious in the contentious battle for clinician adoption will be those that explain AI-driven insights and enable the final verdict to be that of the clinician.
+
+Q. On a different front, you predict the inflationary environment will lead to greater acceleration and adoption in 2024 of tech-enabled, advanced payment models. How so?
+
+A. Amid the technological and pharmaceutical advances we saw during 2023, the third salient theme of the year was rapid inflation. The result is costs rising across labor, procedures and drugs.
+
+2023 saw significant movement in the value-based care investment space, with Aledade securing significant financing, and Walmart allegedly in talks to acquire ChenMed as two examples. We anticipate the current trends across providers and health plans toward value-based care will only increase in an environment where every stakeholder is feeling the pressure of rising costs.
+
+Health plans will react by further investing in programs designed to reign in total cost of care. With many health plans already involved in care delivery as "payviders," these organizations are well positioned to continue making the push away from fee-for-service.
+
+We anticipate hospitals and health systems faced with labor shortages and rising costs, historically lagging when it comes to value-based payment arrangements, will feel the pressure from health plans – as well as their own balance sheets – to consider accelerating the move.
+
+To make this transition successful, healthcare leaders will seek out advanced technologies to support clinical staff tasked with new workflows and documentation requirements.
+
+2023 saw a rapid acceleration in technology ranging from software to pharmaceuticals. 2024 promises to be a year where we witness further advancement and new dilemmas that arise from maturity and widespread adoption of these early developments. With a foggy macroenvironmental future, we anticipate healthcare will double down on total cost of care initiatives, with emphasis on tech-enabled, value-based care strategies.
+
+Follow Bill's HIT coverage on LinkedIn: Bill Siwicki
+Email him: bsiwicki@himss.org
+Healthcare IT News is a HIMSS Media publication.
+
+More Whitepapers
+
+More Webinars
+
+© 2024 Healthcare IT News is a publication of HIMSS Media
+
