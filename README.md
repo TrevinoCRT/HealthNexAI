@@ -1,7 +1,7 @@
 # HealthNexAI
 
 ## Introduction
-HealthNexAI is a comprehensive Python application designed to enhance healthcare and AI research by aggregating the latest developments from the web, providing an interactive chat interface, and integrating with cognitive services for speech-to-text and text-to-speech functionalities.
+HealthNexAI.py is a comprehensive Python application designed to enhance healthcare and AI research by aggregating the latest developments from the web, providing an interactive chat interface, and integrating with cognitive services for speech-to-text and text-to-speech functionalities.
 
 ## Features
 - Web scraping for the latest healthcare and AI news.
