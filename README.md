@@ -52,4 +52,4 @@ For more information on configuring and extending the application, refer to the 
 ## Watch Our Demo
 For a demo video using HealthNexAI, watch our youtube video here:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d0V7M5wbDFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![HealthNexAI Demo](http://img.youtube.com/vi/d0V7M5wbDFE/0.jpg)](http://www.youtube.com/watch?v=d0V7M5wbDFE)
